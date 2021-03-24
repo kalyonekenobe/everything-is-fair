@@ -1,0 +1,5 @@
+{"action":"Відмова від участі у змаганні","actionResult":"true","mainAction":"writeLog","date":{"date":"2021-03-05 20:37:35.000000","timezone_type":3,"timezone":"Europe\/Kiev"},"user_id":"64","user_ip":"127.0.0.1"}
+{"action":"Реєстрація на змагання","actionResult":"true","mainAction":"writeLog","date":{"date":"2021-03-05 20:41:51.000000","timezone_type":3,"timezone":"Europe\/Kiev"},"user_id":"64","user_ip":"127.0.0.1"}
+{"action":"Реєстрація на змагання","actionResult":"true","mainAction":"writeLog","date":{"date":"2021-03-05 20:42:04.000000","timezone_type":3,"timezone":"Europe\/Kiev"},"user_id":"64","user_ip":"127.0.0.1"}
+{"action":"Реєстрація на змагання","actionResult":"true","mainAction":"writeLog","date":{"date":"2021-03-05 20:42:08.000000","timezone_type":3,"timezone":"Europe\/Kiev"},"user_id":"64","user_ip":"127.0.0.1"}
+{"action":"Відмова від участі у змаганні","actionResult":"true","mainAction":"writeLog","date":{"date":"2021-03-05 20:43:15.000000","timezone_type":3,"timezone":"Europe\/Kiev"},"user_id":"64","user_ip":"127.0.0.1"}

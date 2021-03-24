@@ -1,0 +1,2 @@
+{"action":"Надсилання відгуку","review_text":"dasdasd","actionResult":"true","mainAction":"writeLog","date":{"date":"2021-03-21 14:48:53.000000","timezone_type":3,"timezone":"Europe\/Kiev"},"user_id":null,"user_ip":"127.0.0.1"}
+{"action":"Надсилання відгуку","review_text":"dasdasdasda","actionResult":"true","mainAction":"writeLog","date":{"date":"2021-03-21 14:54:31.000000","timezone_type":3,"timezone":"Europe\/Kiev"},"user_id":null,"user_ip":"127.0.0.1"}

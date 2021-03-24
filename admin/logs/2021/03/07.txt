@@ -1,0 +1,2 @@
+{"action":"Відмова від участі у змаганні","actionResult":"true","mainAction":"writeLog","date":{"date":"2021-03-07 12:12:00.000000","timezone_type":3,"timezone":"Europe\/Kiev"},"user_id":"84","user_ip":"127.0.0.1"}
+{"action":"Реєстрація на змагання","actionResult":"true","mainAction":"writeLog","date":{"date":"2021-03-07 12:13:45.000000","timezone_type":3,"timezone":"Europe\/Kiev"},"user_id":"84","user_ip":"127.0.0.1"}
