@@ -432,7 +432,9 @@ $(document).ready(function(){
         type: "POST",
         url: "/includes/logout.php",
         cache: false,
-        success: function(data){}
+        success: function(data){
+          location.href = "index.php";
+        }
       });
     });
     $(".personal_office_navbar a").click(function(e){
